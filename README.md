@@ -5,8 +5,7 @@
 ![GitHub repository](https://github-readme-stats.vercel.app/api/pin/?username=ethanYaoyx&repo=ethanYaoyx-Image_Generation_for_Medical_Application_Dog_hip&amp)
 
 ![GitHub repository](https://github-readme-stats.vercel.app/api/pin/?username=ethanYaoyx&repo=Dog_heart_Classification&amp&amp)
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ethanYaoyx&repo=Dog_heart_Classification)](https://github.com/ethanYaoyx/ethanYaoyx-Image_Generation_for_Medical_Application_Dog_hip)
 ![Visitor Count](https://profile-counter.glitch.me/{ethanYaoyx}/count.svg)
 
 ![tip](https://badgen.net/badge/github/1.0.0/orange?icon=github)
