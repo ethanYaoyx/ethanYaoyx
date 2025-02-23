@@ -9,13 +9,13 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{ethanYaoyx}/count.svg)
 
-![tip](https://badgen.net/badge/github/1.0.0/green?icon=github)
-![tip](https://badgen.net/badge/python/1.0.0/green?icon=packagephobia)
-![tip](https://badgen.net/badge/pytorch/1.0.0/green?icon=packagephobia)
-![tip](https://badgen.net/badge/pandas/1.0.0/green?icon=packagephobia)
-![tip](https://badgen.net/badge/diffusers/1.0.0/green?icon=packagephobia)
-![tip](https://badgen.net/badge/huggingface/1.0.0/green?icon=packagephobia)
-![tip](https://badgen.net/badge/transformers/1.0.0/green?icon=packagephobia)
+![tip](https://badgen.net/badge/github/1.0.0/orange?icon=github)
+![tip](https://badgen.net/badge/python/1.0.0/orange?icon=packagephobia)
+![tip](https://badgen.net/badge/pytorch/1.0.0/orange?icon=packagephobia)
+![tip](https://badgen.net/badge/pandas/1.0.0/orange?icon=packagephobia)
+![tip](https://badgen.net/badge/diffusers/1.0.0/orange?icon=packagephobia)
+![tip](https://badgen.net/badge/huggingface/1.0.0/orange?icon=packagephobia)
+![tip](https://badgen.net/badge/transformers/1.0.0/orange?icon=packagephobia)
 <!--
 ![GitHub repository](https://github-stats.ubrong.com/api/pin/?username=ethanYaoyx&amp;repo=Dog_heart_Classification&amp;theme=dark)
 **ethanYaoyx/ethanYaoyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
