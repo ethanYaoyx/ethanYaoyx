@@ -1,6 +1,4 @@
-![Account Summary](https://github-stats.ubrong.com/api?username=ethanYaoyx&amp;show_icons=true;theme=cobalt)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ethanYaoyx&repo=github-readme-stats;theme=cobalt)
+![Account Summary](https://github-readme-stats.vercel.app/api?username=ethanYaoyx&count_private=true&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanYaoyx)
 
@@ -8,7 +6,6 @@
 
 ![GitHub repository](https://github-readme-stats.vercel.app/api/pin/?username=ethanYaoyx&repo=Dog_heart_Classification&amp&amp)
 
-![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanYaoyx&count_private=true&show_icons=true&theme=dracula)
 
 ![Visitor Count](https://profile-counter.glitch.me/{ethanYaoyx}/count.svg)
 
