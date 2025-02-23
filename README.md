@@ -1,12 +1,12 @@
 ![Account Summary](https://github-stats.ubrong.com/api?username=ethanYaoyx&amp;show_icons=true;theme=cobalt)
 
-![Most use language](https://github-stats.ubrong.com/api/top-langs/?username=ethanYaoyx&amp;layout=compact&amp;theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanYaoyx)
 
-![GitHub repository](https://github-stats.ubrong.com/api/pin/?username=ethanYaoyx&amp;repo=ethanYaoyx-Image_Generation_for_Medical_Application_Dog_hip&amp;theme=dark)
+![GitHub repository](https://github-readme-stats.vercel.app/api/pin/?username=ethanYaoyx&repo=ethanYaoyx-Image_Generation_for_Medical_Application_Dog_hip&amp;theme=dark)
 
-![GitHub repository](https://github-stats.ubrong.com/api/pin/?username=ethanYaoyx&amp;repo=Dog_heart_Classification&amp;theme=dark)
+![GitHub repository](https://github-readme-stats.vercel.app/api/pin/?username=ethanYaoyx&repo=Dog_heart_Classification&amp&amp;theme=dark)
 
-![github Status](https://stats.justsong.cn/api/github?username=ethanYaoyx&amp;theme=dark&amp;lang=en)
+![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanYaoyx&count_private=true&show_icons=true&theme=dracula&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
 
 ![Visitor Count](https://profile-counter.glitch.me/{ethanYaoyx}/count.svg)
 
