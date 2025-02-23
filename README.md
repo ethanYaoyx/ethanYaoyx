@@ -6,7 +6,7 @@
 
 ![GitHub repository](https://github-stats.ubrong.com/api/pin/?username=ethanYaoyx&amp;repo=Dog_heart_Classification&amp;theme=dark)
 
-![github Status](https://stats.justsong.cn/api/github?username=ethanYaoyx&amp;theme=dark&amp)
+![github Status](https://stats.justsong.cn/api/github?username=ethanYaoyx&amp;theme=dark&amp;lang=en)
 
 ![Visitor Count](https://profile-counter.glitch.me/{ethanYaoyx}/count.svg)
 
