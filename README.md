@@ -15,8 +15,8 @@
 ![tip](https://badgen.net/badge/pytorch/green?icon=packagephobia)
 ![tip](https://badgen.net/badge/pandas/green?icon=packagephobia)
 ![tip](https://badgen.net/badge/diffusers/green?icon=packagephobia)
-![tip](https://badgen.net/badge/huggingface/green?icon=packagephobia)
-![tip](https://badgen.net/badge/transformers/green?icon=packagephobia)
+![tip](https://badgen.net/badge/huggingface?icon=packagephobia)
+![tip](https://badgen.net/badge/transformers?icon=packagephobia)
 <!--
 ![GitHub repository](https://github-stats.ubrong.com/api/pin/?username=ethanYaoyx&amp;repo=Dog_heart_Classification&amp;theme=dark)
 **ethanYaoyx/ethanYaoyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
