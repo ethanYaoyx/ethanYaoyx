@@ -1,12 +1,14 @@
 ![Account Summary](https://github-stats.ubrong.com/api?username=ethanYaoyx&amp;show_icons=true;theme=cobalt)
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ethanYaoyx&repo=github-readme-stats;theme=cobalt)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanYaoyx)
 
-![GitHub repository](https://github-readme-stats.vercel.app/api/pin/?username=ethanYaoyx&repo=ethanYaoyx-Image_Generation_for_Medical_Application_Dog_hip&amp;theme=dark)
+![GitHub repository](https://github-readme-stats.vercel.app/api/pin/?username=ethanYaoyx&repo=ethanYaoyx-Image_Generation_for_Medical_Application_Dog_hip&amp)
 
-![GitHub repository](https://github-readme-stats.vercel.app/api/pin/?username=ethanYaoyx&repo=Dog_heart_Classification&amp&amp;theme=dark)
+![GitHub repository](https://github-readme-stats.vercel.app/api/pin/?username=ethanYaoyx&repo=Dog_heart_Classification&amp&amp)
 
-![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanYaoyx&count_private=true&show_icons=true&theme=dracula&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
+![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanYaoyx&count_private=true&show_icons=true&theme=dracula)
 
 ![Visitor Count](https://profile-counter.glitch.me/{ethanYaoyx}/count.svg)
 
