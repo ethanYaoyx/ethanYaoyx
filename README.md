@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanYaoyx)
 
-![GitHub repository](https://github-readme-stats.vercel.app/api/pin/?username=ethanYaoyx&repo=ethanYaoyx-Image_Generation_for_Medical_Application_Dog_hip&amp)
+![GitHub repository](https://github-readme-stats.vercel.app/api/pin/?username=ethanYaoyx&repo=ethanYaoyx/ethanYaoyx-Image_Generation_for_Medical_Application_Dog_hip&amp)
 
 ![GitHub repository](https://github-readme-stats.vercel.app/api/pin/?username=ethanYaoyx&repo=Dog_heart_Classification&amp&amp)
 
