@@ -1,4 +1,4 @@
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=ethanYaoyx&amp;show_icons=true&amp;theme=tokyonight)
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=ethanYaoyx&amp;show_icons=true)
 <!--
 **ethanYaoyx/ethanYaoyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
